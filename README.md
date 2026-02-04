@@ -34,16 +34,3 @@ Our Platform is built using the following tools:
 | remove-env    | Delete the Python Virtual Environment created for testing        |
 
 
-## API Documentation
-
-![](images/api-documentation-1.png)
-![](images/api-documentation-2.png)
-![](images/api-documentation-3.png)
-![](images/api-documentation-4.png)
-![](images/api-documentation-5.png)
-
-
-
-If you'd like to collaborate with me or hire me, please feel free to send an email to koushikvikram91@gmail.com
-
-Make sure to check out other repositories on my [homepage](https://github.com/koushikvikram).
